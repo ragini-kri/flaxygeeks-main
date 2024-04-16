@@ -109,6 +109,7 @@
   transform: none;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s cubic-bezier(0.25, 0.25, 0.315, 1.35), transform 0.1s linear;
+  
 }
 
 .content .cta:hover {
