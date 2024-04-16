@@ -34,7 +34,7 @@ class App extends React.Component {
           </a>
         </div>
         <div className="footer">
-          <span><a className="underlined" href="https://github.com/x-imayank" target="_blank" rel="noopener noreferrer"> Code-Crafters</a></span>
+          <span><a className="underlined" href="https://github.com/flexigeekshub" target="_blank" rel="noopener noreferrer"> Code-Crafters</a></span>
         </div>
       </div>
 
