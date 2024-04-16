@@ -13,7 +13,7 @@ class App extends React.Component {
             <p>FlexiGeeks</p>
           </div>
           <div className="social">
-            <a href="https://github.com/x-imayank" title="GitHub" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/flexigeekshub" title="GitHub" target="_blank" rel="noopener noreferrer">
               <IconGithub className="icon" />
             </a>
             <a href="https://www.linkedin.com/groups/14393062/" title="Linkedin" target="_blank" rel="noopener noreferrer">
