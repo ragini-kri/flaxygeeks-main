@@ -19,7 +19,7 @@
     /* border-radius: 30px; */
 }
 
-@media screen and (max-width: 512px) {
+@media screen and (max-width: 500px) {
     body{
         background: linear-gradient(180deg,  #ffffff,#ffffff);
     }
