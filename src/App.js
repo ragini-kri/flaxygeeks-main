@@ -29,7 +29,7 @@ class App extends React.Component {
             <h1>Get ready for the change.🚀</h1>
             <p>Hold tight as our magicians are working hard to create the best platform ever.</p>
           </div>
-          <a href="https://subscribe-beta.vercel.app/">
+          <a href="https://subscribe-beta.netlify.app/">
             <div className="cta" >Subscribe us</div>
           </a>
         </div>
