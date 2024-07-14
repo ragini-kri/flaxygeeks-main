@@ -8,7 +8,8 @@
        j
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build", ksdds
+    
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
